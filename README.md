@@ -1,21 +1,24 @@
 # Shivam Singh
 
-I build AI systems where models meet enterprise reality.
+I am a hands-on technical leader working where enterprise AI strategy meets architecture, deployment, and adoption.
 
-My work spans open-weight and proprietary models, with particular depth in private inference, intelligent document processing, RAG, agent orchestration, and deployment across sovereign, air-gapped, on-premises, and multi-cloud environments.
+Across more than eleven years in technology, I have worked across domains while staying close to implementation. I help translate business ambiguity and operating constraints into systems that teams can build, govern, and adopt.
 
-I care about what happens after the demo: quality, latency, throughput, privacy, cost, integration debt, observability, safe failure, and adoption.
+My AI practice spans open-weight and proprietary models, with particular depth in private inference, intelligent document processing, RAG, agent orchestration, and deployment across sovereign, air-gapped, on-premises, and multi-cloud environments.
+
+I care about what happens after the strategy deck and the model demo: system boundaries, technical choices, quality, latency, privacy, cost, organizational ownership, safe failure, and adoption.
 
 ## Current field notes
 
 - [The deployment envelope comes before model selection](https://shivam.systems/writing/deployment-envelope-before-model-selection/)
 - [More writing on production AI systems](https://shivam.systems/writing/)
 
-## Areas of focus
+## Leadership practice
 
-- **Production AI platforms** — document intelligence and enterprise automation.
-- **Private model infrastructure** — open-weight and proprietary model deployment across Kubernetes, GitOps, on-premises, and cloud environments.
-- **Human-centered AI** — accessibility, multilingual systems, and constrained connectivity.
+- **Enterprise AI strategy & architecture** — build/buy decisions, system boundaries, technical roadmaps, and platform choices.
+- **Production & private AI** — document intelligence, open-weight and proprietary models, Kubernetes, GitOps, on-premises, and cloud environments.
+- **Forward deployment & adoption** — workflow discovery, integration, evaluation, reliability, and field learning.
+- **Human-centered systems** — accessibility, multilingual interfaces, and constrained connectivity.
 
 ## Research
 
@@ -25,7 +28,7 @@ I care about what happens after the demo: quality, latency, throughput, privacy,
 
 ## Comparing notes
 
-I am interested in sovereign AI, air-gapped deployments, open-weight serving, agent reliability, document intelligence, and the path from model capability to adoption.
+I compare notes with technical and business leaders working through enterprise AI strategy, sovereign and air-gapped deployments, model optionality, agent reliability, document intelligence, and the path from capability to adoption.
 
 [Website](https://shivam.systems) · [LinkedIn](https://www.linkedin.com/in/shivamsngh/)
 
